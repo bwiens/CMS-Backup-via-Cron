@@ -3,9 +3,9 @@
 
 TIMESTAMP=`date +%m-%d-%y-%H%M`
 HOST="localhost"
-DBNAME="wordpress_db"
-USER="wordpress_user"
-PASSWORD="wordpress_password"
+DBNAME="mysql_db"
+USER="mysql_user"
+PASSWORD="mysql_password"
 #Variables for mysqldump
 
 
